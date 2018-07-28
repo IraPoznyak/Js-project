@@ -1,3 +1,6 @@
+// Lesson 2
+
+
 let str1= `ABCD EF G`;
 let sln = str1.length;
 console.log(sln);

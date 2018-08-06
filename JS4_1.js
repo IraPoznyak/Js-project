@@ -1,5 +1,7 @@
 //lesson 4
 
+
+
 class Vehicle{
     constructor(carModel,carYear,maxSpeed){
         this.model = carModel;
